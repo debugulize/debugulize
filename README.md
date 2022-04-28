@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" width="300"/>
 </div>
