@@ -19,7 +19,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://giphy.com/clips/PROSIS-GmbH-feuer-brandschutz-luitguard-WPZWoGcfd9TXGy1WsJ" width="600" height="300"/>
+  <img src="https://giphy.com/clips/PROSIS-GmbH-feuer-brandschutz-luitguard-WPZWoGcfd9TXGy1WsJ" width="400" height="200"/>
 </div>
 
 
