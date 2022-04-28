@@ -17,10 +17,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
 </h1>
-</div>
- <!--[Typing SVG]https://readme-typing-svg.herokuapp.com?-->
- <p align="centre">
-  <a href="Hello+developers!!i'm+debugulize+;passionate+about+software+engineering")]("https://git.io/typing-svg")       
+</div>       
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 </div>
