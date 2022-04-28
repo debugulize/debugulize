@@ -18,7 +18,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
 </h1>
 </div>
- <p href=[![Typing SVG]("https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=397&lines=Hello+developers!!i'm+debugulize+;passionate+about+software+engineering")](https://git.io/typing-svg)       
+ <!--[Typing SVG]https://readme-typing-svg.herokuapp.com?-->
+ <p align="centre">
+  <a href=center=true&vCenter=true&width=397&lines="Hello+developers!!i'm+debugulize+;passionate+about+software+engineering")]("https://git.io/typing-svg")       
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 </div>
