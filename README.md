@@ -48,6 +48,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debugulize&layout=compact&theme=vision-friendly-dark)](https://github.com/debugulize/github-readme-stats)
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
 <!--
 **debugulize/debugulize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
