@@ -19,7 +19,7 @@
 </h1>
   <!-- Typing SVG by DenverCoder1 - https://github.com/debugulize/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/debugulize/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20debugulize;A%20Passionate%20Software%20Engineer;%2e&font=Fira%20Code&center=true&width=460&height=50&color=0000FF&vCenter=true&size=22"></a>
+  <a href="https://github.com/debugulize/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20debugulize;A%20Passionate%20Software%20Engineer;&font=Fira%20Code&center=true&width=460&height=50&color=0000FF&vCenter=true&size=22"></a>
     </p>
 
 </div>       
